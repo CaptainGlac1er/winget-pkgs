@@ -2,18 +2,18 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.2.0.schema.json
 
 PackageIdentifier: calibre.calibre
-PackageVersion: 6.4.0
+PackageVersion: 6.5.0
 PackageLocale: en-US
 Publisher: Kovid Goyal
 PublisherUrl: https://calibre-ebook.com/
 PublisherSupportUrl: https://calibre-ebook.com/help
-# PrivacyUrl: 
+# PrivacyUrl:
 Author: Kovid Goyal
 PackageName: calibre
 PackageUrl: https://calibre-ebook.com/
 License: GPL-3.0-only
 LicenseUrl: https://github.com/kovidgoyal/calibre/blob/master/LICENSE
-# Copyright: 
+# Copyright:
 CopyrightUrl: https://github.com/kovidgoyal/calibre/blob/master/LICENSE
 ShortDescription: calibre is a powerful and easy to use e-book manager
 Description: |-
@@ -31,11 +31,11 @@ Tags:
 - kobo
 - library
 - mobi
-# Agreements: 
-# ReleaseNotes: 
+# Agreements:
+# ReleaseNotes:
 ReleaseNotesUrl: https://github.com/kovidgoyal/calibre/releases/tag/v6.4.0
-# PurchaseUrl: 
-# InstallationNotes: 
-# Documentations: 
+# PurchaseUrl:
+# InstallationNotes:
+# Documentations:
 ManifestType: defaultLocale
 ManifestVersion: 1.2.0
